@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "299062285671",
+    "firebase_url": "https://sjpphonebook.firebaseio.com",
+    "project_id": "sjpphonebook",
+    "storage_bucket": "sjpphonebook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299062285671:android:507377ae964abe3b",
+        "android_client_info": {
+          "package_name": "com.usjp.pb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299062285671-ll4hkcecqd5ha4rohi67vg83rp33bqj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.usjp.pb",
+            "certificate_hash": "be29108101c3ebf83661e9ab8940747b01a24a57"
+          }
+        },
+        {
+          "client_id": "299062285671-el6jg7g222e0v8utdpkmn3fvb251gajk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzbrbA2QgOtsG0dHdKNFKhIOfkVA-D6gQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299062285671-el6jg7g222e0v8utdpkmn3fvb251gajk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
